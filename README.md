@@ -1,1 +1,1 @@
-ulisp modifictions for the Adafruit Edge Badge
+ulisp modifications for the Adafruit Edge Badge
